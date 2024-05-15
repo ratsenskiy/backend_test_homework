@@ -1,1 +1,2 @@
-*.doc
+*.docgit 
+venv/
